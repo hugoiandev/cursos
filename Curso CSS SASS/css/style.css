@@ -1,0 +1,21 @@
+p {
+  color: blue;
+  background: purple;
+}
+
+a {
+  display: block;
+  width: 200px;
+  height: 40px;
+}
+
+div {
+  background: #999;
+  height: 200px;
+}
+
+div a {
+  color: pink;
+  background: blue;
+  font-size: 30px;
+}
